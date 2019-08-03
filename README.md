@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pram0127/LifeCycleproject/_apis/build/status/ramprasana.pipelines-java?branchName=master)](https://dev.azure.com/pram0127/LifeCycleproject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
